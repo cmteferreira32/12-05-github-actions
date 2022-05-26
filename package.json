@@ -1,0 +1,23 @@
+{
+  "name": "12-05-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cmteferreira32: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@github.com/cmteferreira32/12-05-github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmteferreira32/12-05-github-actions/issues"
+  },
+  "homepage": "https://github.com/cmteferreira32/12-05-github-actions#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
